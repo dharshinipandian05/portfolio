@@ -8,7 +8,7 @@ export const PERSONAL_INFO = {
   mindset: "I design backend solutions with a strict focus on scale, high-performance execution, and clean API design. I thrive on translating intricate logic into elegant, maintainable codebases that power seamless frontend interactions.",
   email: "dharshinipandian05@gmail.com",
   github: "https://github.com/DharshiniPandian",
-  linkedin: "https://linkedin.com/in/dharshini-pandian",
+  linkedin: "https://www.linkedin.com/in/dharshini-pandian-6aa9b4267/",
   weblink: "https://dharshinipandian.netlify.app",
 };
 
@@ -233,7 +233,7 @@ export const CODING_PROFILES: CodingProfile[] = [
   },
   {
     name: "Coding Ninjas",
-    url: "https://www.naukri.com/code360/profile/dharshini",
+    url: "https://www.naukri.com/code360/profile/1f3aaad8-ab9b-4814-a9f1-b04989aa9067",
     username: "dharshini",
     badge: "Algorithm Practise",
     score: "Active Learner"
