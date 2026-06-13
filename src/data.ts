@@ -142,8 +142,6 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
       "Git",
       "Swagger",
       "Postman",
-      "Azure",
-      "Hetzner"
     ]
   }
 ];
@@ -160,7 +158,7 @@ export const PROJECTS: Project[] = [
       "Assisted in React JS front-end bindings, rendering responsive seat quotas, states, and participant tracking views."
     ],
     techStack: ["React JS", "Node JS", "Express JS", "MySQL", "JavaScript", "Git"],
-    githubUrl: "https://github.com/DharshiniPandian"
+    githubUrl: "https://github.com/DharshiniPandian/PS_Events.git"
   },
   {
     id: "proj-2",
@@ -173,7 +171,7 @@ export const PROJECTS: Project[] = [
       "Implemented schema indexes on submission times, maximizing calculation pipeline performance."
     ],
     techStack: ["Node JS", "Express JS", "Sequelize (ORM)", "MySQL", "JavaScript", "Postman"],
-    githubUrl: "https://github.com/DharshiniPandian"
+    githubUrl: "https://github.com/DharshiniPandian/karmaCalculatorBackend.git"
   },
   {
     id: "proj-3",
@@ -186,7 +184,7 @@ export const PROJECTS: Project[] = [
       "Built resilient validation middleware for peer certificates uploads and contact channels."
     ],
     techStack: ["React JS", "Node JS", "Express JS", "PostgreSQL", "MUI", "JavaScript", "Git"],
-    githubUrl: "https://github.com/DharshiniPandian"
+    githubUrl: "https://github.com/Harinirpm/Alumini_Tracking_System/tree/Dharshini"
   },
   {
     id: "proj-4",
@@ -199,22 +197,9 @@ export const PROJECTS: Project[] = [
       "Styled a neat, minimalist, mobile-friendly interface showcasing clean custom UI state transitions."
     ],
     techStack: ["React JS", "JavaScript", "HTML", "CSS", "Git"],
-    githubUrl: "https://github.com/DharshiniPandian",
-    liveUrl: "https://dharshinipandian.netlify.app"
+    githubUrl: "https://github.com/DharshiniPandian/PasswordGenerator.git",
+    liveUrl: "https://github.com/DharshiniPandian/PasswordGenerator.git"
   },
-  {
-    id: "proj-5",
-    title: "Enterprise Cloud Server Migration",
-    description: "Successfully executed a secure and cost-efficient platform server migration from Azure VM deployments to Hetzner Cloud infrastructure.",
-    overview: "Configured virtual instances, restricted network access to essential ports, synchronized backend components, and minimized service interruption during live DNS swap.",
-    contributions: [
-      "Planned virtual configurations, host firewalls, and secure port-forwarding schemes under Hetzner Cloud environment.",
-      "Transferred Express.js server applications, environmental structures, and critical runtimes with strict functionality checks.",
-      "Optimized build integration and secure codebase delivery via automated GitHub Actions deployment runs."
-    ],
-    techStack: ["Azure", "Hetzner", "Express JS", "Docker", "Linux", "GitHub Actions"],
-    githubUrl: "https://github.com/DharshiniPandian"
-  }
 ];
 
 export const CODING_PROFILES: CodingProfile[] = [
