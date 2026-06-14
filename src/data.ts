@@ -51,9 +51,11 @@ export const EXPERIENCES: Experience[] = [
     company: "The Alter Office, Bangalore",
     period: "Aug 2025 - Present",
     description: [
-      "Handled enterprise server migration from Azure to Hetzner cloud environment, establishing secure configurations.",
-      "Implemented a highly reliable, asynchronous audit logging engine powered by BullMQ, Redis, and Express JS.",
-      "Collaborated deep with software engineers to design, build, and test highly scalable backend services and Restful endpoints."
+      "Developed an audit logging system using Node.js, Express.js, TypeScript, BullMQ, and Redis for reliable asynchronous processing.",
+      "Built event-driven analytics pipelines using Kafka for event capturing and explored ClickHouse and RisingWave for real-time analytics processing.",
+      "Optimized MySQL queries and database interactions to improve application performance and efficiency.",
+      "Managed application containerization and deployment workflows using Docker, and gained experience with GitHub Actions for CI/CD automation.",
+      "Contributed to production infrastructure tasks including server migration from Azure to Hetzner, and migrated blob storage to AWS S3.",
     ],
     skills: ["Node.js", "NestJS", "ExpressJS", "PostgreSQL", "Redis", "BullMQ", "ClickHouse", "RisingWave", "Azure", "Hetzner", "AWS S3", "GitHub Actions"]
   },
@@ -63,9 +65,11 @@ export const EXPERIENCES: Experience[] = [
     company: "The Alter Office, Bangalore",
     period: "May 2025 - Jul 2025 (3 Months)",
     description: [
-      "Worked with team of core engineers to build, test, and maintain robust backend APIs, gaining experience with modern tech stacks and cloud tools.",
+      "Worked across backend and frontend to develop product features using Node.js, Express.js, TypeORM, Next.js, Tailwind CSS, and Zustand.",
+      "Developed and maintained REST APIs, fixed production bugs, and created Swagger documentation to improve API usability and developer experience.",
+      "Designed and implemented a message forum feature for the company's website, including both frontend interfaces and backend functionality.",
     ],
-    skills: ["Node JS", "Express JS", "MongoDB", "MUI", "Postman", "Git", "Swagger"]
+    skills: ["Node JS", "Express JS", "MySQL", "Postman", "Git", "Swagger", "Next Js", "Tailwind CSS", "Zustand"]
   },
   {
     id: "exp-3",
